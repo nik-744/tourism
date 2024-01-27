@@ -1,5 +1,5 @@
 # tourism
-The Following EDA contains analysis done on the Tourism in India using plotly Libra 
+The Following EDA contains analysis done on the Tourism in India using plotly Library 
 it contians analysis done on 3 datasets .
 1. Domestic and Foreign Tourists visits to state from 2001 to 2020
 2. Foreign Exchange Earnings from Tourism in India During 2001-2020
