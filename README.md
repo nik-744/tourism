@@ -1,4 +1,4 @@
-# tourism
+# Tourism
 The Following EDA contains analysis done on the Tourism in India using plotly Library 
 it contians analysis done on 3 datasets .
 1. Domestic and Foreign Tourists visits to state from 2001 to 2020
